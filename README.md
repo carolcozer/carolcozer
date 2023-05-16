@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3a0ca3&size=40&center=true&vCenter=true&width=1000&lines=💻+HELLO,+WORLD!+🌎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3a0ca3&size=35&center=true&vCenter=true&width=1000&lines=💻+HELLO,+WORLD!+🌎)](https://git.io/typing-svg)
 <h3 align="center">I'm Carolina, Systems Analysis and Development student</h3>
 <br><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif">
 
 - 🧠 **Currently learning:** python, javascript, HTML and CSS
 - 📩 **Reach me at:** carolinacozer@gmail.com
-- 🪐 **Hobbies:** pixel art, games, linguistics and astronomy
+- 🪐 **Passionate about:** pixel art, games, linguistics and astronomy
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/naiadeivy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
