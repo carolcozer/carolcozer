@@ -29,6 +29,6 @@ const carol: AboutMe = {
 <hr height="1">
 <div align="center">
   <a href="https://github.com/carolcozer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolcozer&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolcozer&layout=compact&langs_count=6&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolcozer&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolcozer&layout=compact&langs_count=6&theme=codeSTACKr"/>
 </div>
