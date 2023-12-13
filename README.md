@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=💻+Hello,+World!+Nice+to+meet+you.;💻+I'm+a+Development+Intern+at+SAP+in+Brazil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=60aae0&size=35&center=true&vCenter=true&width=1000&lines=💻+Hello,+World!+Nice+to+meet+you.;💻+I'm+a+Development+Intern+at+SAP+in+Brazil.)](https://git.io/typing-svg)
 
 <div style="width: 10px;"></div>
 <img align="right" width=25% src="https://i.pinimg.com/originals/4a/d3/b5/4ad3b567236d7d59e2f31e6633cfcdc7.gif"/></a>
