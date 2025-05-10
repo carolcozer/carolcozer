@@ -13,11 +13,11 @@ class AboutMe {
 };
 
 const carol: AboutMe = {
-  age: "35yo",
-  work: "I'm a trainee intern in full-stack web development",
-  learning: "javascript, typescript and python",
+  age: "37yo",
+  work: "I'm a software development intern",
+  learning: "javascript, typescript and java",
   interests: "pixel art, games, linguistics and astronomy",
-  curiousAbout: "computer assembly, cybersecurity"
+  curiousAbout: "assembly, cybersecurity"
 };
 ```
 
